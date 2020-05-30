@@ -1,0 +1,16 @@
+body::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE and Edge */
+body {
+    -ms-overflow-style: none;
+}
+
+.container-fluid{
+    background: rgb(63, 255, 108);
+    color: darkolivegreen;
+    font-size: xx-large;
+    text-align: center;
+}
+
